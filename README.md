@@ -1,4 +1,3 @@
-- 👋 User: @karimrashid
 - 👀 Building smart solutions that help both people and enterprises
 - 💞️ Willing to collaborate on any projects under these umbrellas
 - 📫 Let's Connect! @https://www.linkedin.com/in/karimelrashidy/
