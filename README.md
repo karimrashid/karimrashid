@@ -4,7 +4,6 @@
 - 🌱 Learning python, React, Ruby
 - 💞️ Willing to collaborate on any projects under these umbrellas
 - 📫 Let's Connect! @https://www.linkedin.com/in/karimelrashidy/
-- 🧲 www.ecoprobr.com - E-commerce for local scrap using google maps API and WooCommerce - Personl Project
 
 <!---
 karimrashid/karimrashid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
