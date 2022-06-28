@@ -1,7 +1,5 @@
 - 👋 User: @karimrashid
 - 👀 Building smart solutions that help both people and enterprises
-- 💾 HTML, CSS, JavaScript
-- 🌱 Learning python, React, Ruby
 - 💞️ Willing to collaborate on any projects under these umbrellas
 - 📫 Let's Connect! @https://www.linkedin.com/in/karimelrashidy/
 
