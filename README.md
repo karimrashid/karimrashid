@@ -1,5 +1,4 @@
-- 👀 Building smart solutions that help both people and enterprises
-- 💞️ Willing to collaborate on any projects under these umbrellas
+- 👀 Watchers on the Wall
 - 📫 Let's Connect! @https://www.linkedin.com/in/karimelrashidy/
 
 <!---
